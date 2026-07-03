@@ -1,0 +1,15 @@
+                <label for="question1">Первый вопрос</label>
+                <span class="square-radio"><span class="answer-subscribe">1</span><input class="radio-button" type="radio" name="answer1" value="1"></span>
+                <span class="square-radio"><span class="answer-subscribe">2</span><input class="radio-button" type="radio" name="answer1" value="2"></span>
+                <span class="square-radio"><span class="answer-subscribe">3</span><input class="radio-button" type="radio" name="answer1" value="3"></span>
+                <span class="square-radio"><span class="answer-subscribe">4</span><input class="radio-button" type="radio" name="answer1" value="4"></span>
+                <span class="square-radio"><span class="answer-subscribe">5</span><input class="radio-button" type="radio" name="answer1" value="5"></span>
+                <label for="question2">Второй вопрос</label>
+                <span class="square-radio"><span class="answer-subscribe">1</span><input class="radio-button" type="radio" name="answer2" value="1"></span>
+                <span class="square-radio"><span class="answer-subscribe">2</span><input class="radio-button" type="radio" name="answer2" value="2"></span>
+                <span class="square-radio"><span class="answer-subscribe">3</span><input class="radio-button" type="radio" name="answer2" value="3"></span>
+                <span class="square-radio"><span class="answer-subscribe">4</span><input class="radio-button" type="radio" name="answer2" value="4"></span>
+                <span class="square-radio"><span class="answer-subscribe">5</span><input class="radio-button" type="radio" name="answer2" value="5"></span>
+                <label for="question2">Третий вопрос</label>
+                <span class="square-radio"><span class="answer-subscribe">да</span><input class="radio-button" type="radio" name="answer3" value="да"></span>
+                <span class="square-radio"><span class="answer-subscribe">нет</span><input class="radio-button" type="radio" name="answer3" value="нет"></span>
